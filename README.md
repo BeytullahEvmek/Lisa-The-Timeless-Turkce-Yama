@@ -10,11 +10,15 @@ YAMAYI INDIRME
 
 Bu sefer malesef ana oyun kaynak kodu sıkışık olduğundan dolayı yama düz olarak oyuna konamıyor.
 
-o yüzden oyunu yamalabilir hale getiripgithub üzerinden paylaşıyorum.
+o yüzden oyunu yamalabilir hale getirip github üzerinden paylaşıyorum.
 
 1)bütün zip dostalarını indirin ve aynı dosyanın içine koyun
 
+![Screenshot 2023-07-28 234727](https://github.com/BeytullahEvmek/Lisa-The-Timeless-Turkce-Yama/assets/130393344/cbe60d7c-4443-467a-b831-e8680313a599)
+
 2)büyün hepsini seçip "buraya ayıkla" deyin
+
+![Screenshot 2023-07-28 234756](https://github.com/BeytullahEvmek/Lisa-The-Timeless-Turkce-Yama/assets/130393344/66a1419a-7adc-4869-ab4a-cde9fa997eb0)
 
 3)Game.exe ya da Timeless.exe ile oyunu çalıştırın
 
