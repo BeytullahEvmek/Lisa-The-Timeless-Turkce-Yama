@@ -3,6 +3,8 @@
 
 Bir ayyaşın gözünden Olathe'da boş boş dolaşmaya hazır olun
 
+![e-information-icon-260nw-2030420033](https://github.com/BeytullahEvmek/Lisa-The-Timeless-Turkce-Yama/assets/130393344/9d724f39-1d21-4d1d-a4f0-c2b881c39894)
+Dikkat:Oyun ağır öğeler içermektedir.
 # Nasıl yüklenir?
 YAMAYI INDIRME
 
